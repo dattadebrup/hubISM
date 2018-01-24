@@ -14,7 +14,8 @@
         <ImageView
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/MapMarker" />
+            android:src="@drawable/streetmap"
+            />
 
         <android.support.v7.widget.CardView
             xmlns:card_view="http://schemas.android.com/apk/res-auto"
@@ -47,7 +48,7 @@
 
                 android:paddingLeft="@dimen/desc_padding"
                 android:paddingRight="@dimen/desc_padding"
-                android:text="Departments , Labs , Hostels , ATMs & Other Important Locations"
+                android:text="Departments , Labs , Hostels , ATMs &amp; Other Important Locations"
                 android:textAlignment="center"
                 android:textColor="#20d2bb"
                 android:textSize="@dimen/slide_desc" />

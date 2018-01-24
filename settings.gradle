@@ -1,1 +1,1 @@
-include ':app', ':campusmap'
+include ':app'

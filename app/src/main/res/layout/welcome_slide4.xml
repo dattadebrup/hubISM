@@ -14,7 +14,8 @@
         <ImageView
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/Contacts" />
+            android:src="@drawable/phonebook"
+            />
 
         <android.support.v7.widget.CardView
             xmlns:card_view="http://schemas.android.com/apk/res-auto"
@@ -47,7 +48,7 @@
 
                 android:paddingLeft="@dimen/desc_padding"
                 android:paddingRight="@dimen/desc_padding"
-                android:text="Contact Details Of All The Faculty & Others"
+                android:text="Contact Details Of All The Faculty &amp; Others"
                 android:textAlignment="center"
                 android:textColor="#c873f4"
                 android:textSize="@dimen/slide_desc" />
